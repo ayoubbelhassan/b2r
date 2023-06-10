@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/b2r/static/css/main.15c8a695.css",
+    "main.js": "/b2r/static/js/main.045fe4d9.js",
+    "static/js/787.415bf8a2.chunk.js": "/b2r/static/js/787.415bf8a2.chunk.js",
+    "static/media/img_navbar.png": "/b2r/static/media/img_navbar.ea58ad615232f17672f9.png",
+    "static/media/v3.png": "/b2r/static/media/v3.132a9a61adc11aeff34a.png",
+    "static/media/v1.png": "/b2r/static/media/v1.8e56d12cb3c92364aec7.png",
+    "static/media/v2.png": "/b2r/static/media/v2.a21b809555f68175854f.png",
+    "static/media/moto_orange.png": "/b2r/static/media/moto_orange.f2532955ee97121c8d73.png",
+    "static/media/pers1.jpg": "/b2r/static/media/pers1.02618a8760bccb0b5bf1.jpg",
+    "static/media/quad_service.png": "/b2r/static/media/quad_service.b159f8f2ab0317c50f87.png",
+    "static/media/vtt.png": "/b2r/static/media/vtt.58dbe63fcd57a5d70680.png",
+    "index.html": "/b2r/index.html",
+    "static/media/index.cjs": "/b2r/static/media/index.cd351d7c31d0d3fccf96.cjs",
+    "main.15c8a695.css.map": "/b2r/static/css/main.15c8a695.css.map",
+    "main.045fe4d9.js.map": "/b2r/static/js/main.045fe4d9.js.map",
+    "787.415bf8a2.chunk.js.map": "/b2r/static/js/787.415bf8a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15c8a695.css",
+    "static/js/main.045fe4d9.js"
+  ]
+}
