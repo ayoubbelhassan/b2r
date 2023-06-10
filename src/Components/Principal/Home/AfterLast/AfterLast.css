@@ -1,0 +1,62 @@
+.afterLast_container{
+    margin: 64px 0px 0px 0px;
+    background: rgba(218, 213, 213, 0.15);  
+   
+    padding: 64px 128px;
+}
+
+.afterLast_container .box{
+    background: #fff;
+    box-shadow: 1px 2px 2.28px 1.5px rgba(0,0,0,.04);
+    width: 25%;
+    color: #333333ba;
+}
+.box .box_info{
+    padding: 8px;
+}
+
+.box .box_info .date{
+    display: inline-block;
+    padding: 0px 10px;
+    line-height: 1.6em;
+    font-size: 0.75em;
+    background-color: #FFD200;
+    color: #ffffff;
+    margin-bottom: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.box .box_info .title{
+    font-size: 24px;
+    font-weight: 400;
+    margin-bottom: 10px;
+    display: block;
+    color: #FFD200;
+}
+
+.box .box_info .paragraphe{
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+    margin-bottom: 8px;
+}
+
+.box_clicks{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 20px;
+}
+
+.box_clicks span{
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    margin-left: 4px;
+}
+
+.box_clicks .item_box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
